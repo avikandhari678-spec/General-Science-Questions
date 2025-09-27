@@ -4,5 +4,7 @@ Inside the Earth: Instead of reducing as you go deeper, the pull would still be 
 
 Q:Why moving charges produce both electric field and magnetic field but a current carrying conductor produces only magnetic field 
 - Since a charge has a characteristic of producing an electric field of its own and since its moving as well so it produces magnetic field as in according to Biot Savart's Law. But a current carrying wire although contains charges produces electric field is cancelled by the opposite charges present in the wire. So electric field by a charge is neutralized by the opposite charge. Magnetic is produced as usual by electrons due to their locomotion
- 
-Q:
+
+Q-Why does the current from the battery stop in a network where one capacitor is in series with the battery and two identical capacitors are in parallel, even though the parallel capacitors could still hold more charge?
+
+-This is because for the series capacitor the potential difference across the plates of a series capacitor becomes equal to the voltage produced due to the batteries. Now since potential difference is zero current will not flow
