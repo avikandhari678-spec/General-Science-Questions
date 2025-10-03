@@ -8,5 +8,9 @@ Q:Why moving charges produce both electric field and magnetic field but a curren
 Q-Why does the current from the battery stop in a network where one capacitor is in series with the battery and two identical capacitors are in parallel, even though the parallel capacitors could still hold more charge?
 
 -This is because for the series capacitor the potential difference across the plates of a series capacitor becomes equal to the voltage produced due to the batteries. Now since potential difference is zero current will not flow
+
 Q: From where the energy for electrons to move in Brownian motion in a conductor come from?
 -this energy is solely  due to thermal agitation at the surrounding temperature
+
+Q: Why does the potential decrease across a resistor when current flows through it?
+-When current flows through a resistor the electrons collide with atoms in the resistor’s lattice. These collisions convert electrical energy into heat energy. The voltage drop across the resistor represents the energy lost per unit charge as it passes.Now the electric potential decreases because the energy carried by the charges is partially spent to heat the resistor.
