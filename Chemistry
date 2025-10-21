@@ -62,3 +62,13 @@ Ans:
 - Thus, the lattice is positive because the atoms themselves are cations, while the electrons in the gaps stabilize the structure.
 
 -PI Bonds don't actually determine the shape of the molecule because they don't for actual bonding like the sigmanBond which are formed by heads on overlap of orbitals
+
+
+Q: If H₂ is formed by combining 2 H atoms, how can ΔHf°(H₂) = 0 while H–H has a bond dissociation energy (BDE)?
+
+A: ΔHf°(H₂) = 0 because H₂ is already the standard elemental form of hydrogen.
+
+BDE(H–H) ≈ 436 kJ/mol because energy is released when 2 H atoms combine or required to break the bond.
+
+
+✅ So H₂ can simultaneously have ΔHf° = 0 and BDE>0
