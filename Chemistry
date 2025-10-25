@@ -72,3 +72,11 @@ BDE(H–H) ≈ 436 kJ/mol because energy is released when 2 H atoms combine or r
 
 
 ✅ So H₂ can simultaneously have ΔHf° = 0 and BDE>0
+
+Q: Why can't the ethene molecule be rotated freely around the C=C bond?
+
+- Ethene has a double bond: one σ bond + one π bond.
+- The π bond is formed by sideways overlap of parallel p orbitals.
+- Rotating around the C=C bond breaks or weakens the π overlap.
+- Partial twists increase energy; 90° twist destroys the π bond.
+- Full 180° rotation restores parallel p orbitals, but intermediate angles are unstable.
