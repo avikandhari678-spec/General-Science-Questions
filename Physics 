@@ -34,3 +34,13 @@ Briefly: Entropy = measure of disorder = how spread out or random energy/matter 
 
 Q:-idiomatic reversible entropy change your delta as total is equal to zero how can explain it qualitatively 
 qualitatively does zero because it's all though we know that delta as total involves exchange of molecules but then you don't have exchange of exchange of molecules in adiabatic process because each and every molecule carries and energy and if a molecular transport then heat is also transfer because it contains energy because molecule contains energy 
+
+When an electron jumps from n=2 → n=4, it absorbs energy.  
+Now, if it “coincidentally” receives **exact energy** equal to the gap between n=4 → n=6,  
+then YES — it can jump again to n=6.  
+
+But if that exact energy isn’t available (like from a photon of that specific frequency),  
+it **won’t re-jump** on its own.  
+
+It also **won’t fall back** immediately unless it loses energy (by emitting a photon).  
+So, it stays in n=4 temporarily — excited but stable till something interacts again.
